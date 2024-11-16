@@ -1,4 +1,4 @@
-//https://youtu.be/7kRdbvsTPGw
+//https://www.youtube.com/watch?v=Nen2lv9Elyk
 
 let estado=1;
 let imagenes = [];
